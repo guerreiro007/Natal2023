@@ -1,0 +1,61 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text color="#555" />
+      <mj-image padding = "0" />
+      <mj-section background-color="#FFF"/>
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#eee">
+    <mj-section background-color = "#FFF" padding = "0">
+      <mj-column>
+        <mj-text align = "center" color = "#000" font-family="UniverseLTStd, Arial" font-size = "13px">
+          Abrir no <a href ="#" target = "_blank" style = "color:#000">Browser.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+			<mj-column>
+        <mj-image width = "600px" src = "./img/hero.png"/>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+    	<mj-column>
+        <mj-text>
+          The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        </mj-text>
+        <mj-text>
+          Email implementado pela turma 12PTPSI com a ajuda da Professora Andreia Gomes para o texto(em ingles)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+				<mj-image width = "600px" src = "./img/bar.png"/>
+      </mj-column>
+    </mj-section>
+    
+    
+    <mj-section>
+     <mj-column>
+      <mj-text align = "center" padding = "0 10px">
+        <p style ="margin:0;padding-bottom:10px;font-size:10px;line-height:15px;margin-bottom:10px;">
+          <span style = "color: #111111 !important; text-decoration:none;">
+            <strong>
+              Escola Secundaria de José Afonso(Escola sede)
+            </strong>
+          <br/> Rua da República 2670-468, Loures | Tel. +351 21 982 71 | Email: esjaloures@esjaloures.org
+            </span>
+        </p>
+       </mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
