@@ -14,7 +14,7 @@
     <mj-section background-color = "#FFF" padding = "0">
       <mj-column>
         <mj-text align = "center" color = "#000" font-family="UniverseLTStd, Arial" font-size = "13px">
-          Abrir no <a href ="#" target = "_blank" style = "color:#000">Browser.</a>
+          Abrir no <a href ="https://guerreiro007.github.io/Natal2023/" target = "_blank" style = "color:#000">Browser.</a>
         </mj-text>
       </mj-column>
     </mj-section>
